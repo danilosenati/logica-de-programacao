@@ -1,4 +1,5 @@
-algoritmo "Enquanto"
+// algoritmo "Enquanto"
+// Trabalhando com a estrutura de repetição enquanto (while)
 
 var
 alturaMarcelo, crescimentoMarcelo, alturaJoao, crescimentoJoao: real
