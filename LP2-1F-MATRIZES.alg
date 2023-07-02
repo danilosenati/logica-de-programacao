@@ -35,4 +35,17 @@ repita
      senao
         escreval("Poltrona Ocupada!")
      fimse
+
+    caso"2"
+     para i de 1 ate 10 faca
+          para j de 1 ate 10 faca
+               escreva("",cinema[i,j],"")
+          fimpara
+          escreval("")
+     fimpara
+     
+  fimescolha
+  
+ate opcao = "3"
+
 Fimalgoritmo
