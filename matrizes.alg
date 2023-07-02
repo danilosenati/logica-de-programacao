@@ -26,9 +26,13 @@ repita
   escolha(opcao)
     caso"1"
      escreval("Fila:")
-     leia(cinema[i])
+     leia(fila)           //leia(cinema[i])
      escreval("Poltrona:")
-     leia(cinema[j])
+     leia(poltrona)       //leia(cinema[j])
      
-     se cinema[]
+     se cinema[fila,poltrona] = "0" entao
+        cinema[fila,poltrona] <- "X"
+     senao
+        escreval("Poltrona Ocupada!")
+     fimse
 Fimalgoritmo
