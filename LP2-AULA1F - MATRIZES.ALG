@@ -1,17 +1,17 @@
 Algoritmo "Matrizes"
 //
-// Descrição   : Programa que realiza a reserva de lugares em um cinema
+// DescriÃ§Ã£o   : Programa que realiza a reserva de lugares em um cinema
 // Autor(a)    : Danilo Barros
 // Data atual  : 2/7/2023
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 
 cinema: vetor[1..10,1..10] de caractere
 i,j,fila,poltrona: inteiro
 opcao:caractere
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
  para i de 1 ate 10 faca
       para j de 1 ate 10 faca
            cinema[i,j]<-"0"
