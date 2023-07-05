@@ -1,11 +1,11 @@
-Algoritmo "AULA2.D-Funcao"
+Algoritmo "AULA2.D-Procedimentos"
 // 
 //  
-// Descrição   : Exercicicio funcao/procedimento
+// DescriÃ§Ã£o   : Exercicio funcao/procedimento
 // Autor(a)    : Danilo Barros
 // Data atual  : 4/7/2023
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 
  opcaoMenu: caractere
  clientes: vetor[1..5]de caractere
@@ -71,7 +71,7 @@ inicio
  fimse
 fimprocedimento
  
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 inicio
 
 repita
